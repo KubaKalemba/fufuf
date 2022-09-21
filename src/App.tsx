@@ -1,5 +1,6 @@
 import {useState} from "react";import './App.css'
-import Recipe from "./components/recipe/Recipe";
+import Recipe from "./components/recipe/Recipe"
+import React from 'react'
 
 
 
